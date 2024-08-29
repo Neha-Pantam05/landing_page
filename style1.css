@@ -1,0 +1,25 @@
+*{
+    margin: 20px 20px 20px 20px;
+}
+.navbar{
+    font-family: "Lucida Console", "Courier New", monospace;
+    display: inline;
+    height: 50px;
+    width: 100%;
+}
+.navbar-logo{
+    background-image: url("logo.webp");
+    background-size: cover;
+    height: 32px;
+    width: 32px;
+}
+.inline{
+    display: flex;
+}
+.font-bold{ 
+    font-weight: 600;
+    font-size: 2rem;
+}
+.text{
+    font-size: 1.6rem;
+}
